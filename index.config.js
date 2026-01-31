@@ -23,40 +23,6 @@ __export(index_config_exports, {
 });
 module.exports = __toCommonJS(index_config_exports);
 var index_config_default = {
-  ali: {
-    token: "",
-    token280: "token280"
-  },
-  quark: {
-    cookie: ""
-  },
-  uc: {
-    cookie: "cookie",
-    token: "token",
-    ut: "ut"
-  },
-  y115: {
-    cookie: ""
-  },
-  baidu: {
-    cookie: ""
-  },
-  muou: {
-    url: ""
-  },
-  wogg: {
-    url: ""
-  },
-  leijing: {
-    url: ""
-  },
-  tgsou: {
-    tgPic: false,
-    count: 0,
-    url: "",
-    channelUsername: ""
-  },
-  tgchannel: {},
   sites: {
     list: []
   },
@@ -64,25 +30,11 @@ var index_config_default = {
     list: []
   },
   danmu: {
-    urls: [{ address: "https://fjj0417.dpdns.org/87654321", name: "默认服务器" }],
+    urls: [{ address: "https://fjj0417.dpdns.org/87654321", name: "默认服务器1" }, { address: "https://danmu.14812910.xyz/87654321", name: "默认服务器2" }, { address: "https://dm.stardm.us.kg/87654321", name: "默认服务器3" }],
     autoPush: true
   },
-  t4: {
-    list: []
-  },
-  cms: {
-    list: []
-  },
-  alist: [
-    {
-      name: "🐉神族九帝",
-      server: "https://alist.shenzjd.com"
-    },
-    {
-      name: "💢repl",
-      server: "https://ali.liucn.repl.co"
-    }
-  ],
+  // alist: [
+  // ],
   color: [
     {
       light: {
