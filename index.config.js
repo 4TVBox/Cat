@@ -23,63 +23,10 @@ __export(index_config_exports, {
 });
 module.exports = __toCommonJS(index_config_exports);
 var index_config_default = {
-  ali: {
-    token: "",
-    token280: "token280"
-  },
-  quark: {
-    cookie: ""
-  },
-  uc: {
-    cookie: "cookie",
-    token: "token",
-    ut: "ut"
-  },
-  y115: {
-    cookie: ""
-  },
-  muou: {
-    url: ""
-  },
-  wogg: {
-    url: ""
-  },
-  leijing: {
-    url: ""
-  },
-  tgsou: {
-    tgPic: false,
-    count: 0,
-    url: "",
-    channelUsername: ""
-  },
-  tgchannel: {},
-  sites: {
-    list: []
-  },
-  pans: {
-    list: []
-  },
   danmu: {
-    urls: [{ address: "https://danmuapi-ten-iota.vercel.app", name: "默认服务器" }],
+    urls: [{ address: "https://fjj0417.dpdns.org/87654321", name: "默认服务器" }],
     autoPush: true
   },
-  t4: {
-    list: []
-  },
-  cms: {
-    list: []
-  },
-  alist: [
-    {
-      name: "🐉神族九帝",
-      server: "https://alist.shenzjd.com"
-    },
-    {
-      name: "💢repl",
-      server: "https://ali.liucn.repl.co"
-    }
-  ],
   color: [
     {
       light: {
