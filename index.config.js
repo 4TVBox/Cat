@@ -33,8 +33,6 @@ var index_config_default = {
     urls: [{ address: "https://fjj0417.dpdns.org/87654321", name: "默认服务器1" }, { address: "https://danmu.14812910.xyz/87654321", name: "默认服务器2" }, { address: "https://dm.stardm.us.kg/87654321", name: "默认服务器3" }],
     autoPush: true
   },
-  // alist: [
-  // ],
   color: [
     {
       light: {
