@@ -452,6 +452,7 @@ Minimum version required to store current data is: `+i+`.
     <html>
       <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <title>\u9996\u9875</title>
       </head>
       <body>
