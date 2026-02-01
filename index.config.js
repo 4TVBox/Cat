@@ -30,7 +30,7 @@ var index_config_default = {
     list: []
   },
   danmu: {
-    urls: [{ address: "https://fjj0417.dpdns.org/87654321", name: "默认服务器1" }, { address: "https://313236.xyz/87654321", name: "默认服务器2" }, { address: "https://danmu.14812910.xyz/87654321", name: "默认服务器3" }],
+    urls: [{ address: "https://fjj0417.dpdns.org/87654321", name: "一号弹幕" }, { address: "https://313236.xyz/87654321", name: "二号弹幕" }, { address: "https://danmu.14812910.xyz/87654321", name: "三号弹幕" }],
     autoPush: true
   },
   color: [
